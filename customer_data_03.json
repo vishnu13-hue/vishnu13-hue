@@ -1,0 +1,92 @@
+[
+  {
+    "customer_id": "C021",
+    "name": null,
+    "address": null,
+    "email": null,
+    "state": "CA",
+    "operation": "delete",
+    "timestamp": "2025-06-04T12:21:00Z"
+  },
+  {
+    "customer_id": "C022",
+    "name": null,
+    "address": null,
+    "email": null,
+    "state": "CA",
+    "operation": "delete",
+    "timestamp": "2025-06-04T12:22:00Z"
+  },
+  {
+    "customer_id": "C023",
+    "name": null,
+    "address": null,
+    "email": null,
+    "state": "CA",
+    "operation": "delete",
+    "timestamp": "2025-06-04T12:23:00Z"
+  },
+  {
+    "customer_id": "C024",
+    "name": null,
+    "address": null,
+    "email": null,
+    "state": "CA",
+    "operation": "delete",
+    "timestamp": "2025-06-04T12:24:00Z"
+  },
+  {
+    "customer_id": "C025",
+    "name": null,
+    "address": null,
+    "email": null,
+    "state": "CA",
+    "operation": "delete",
+    "timestamp": "2025-06-04T12:25:00Z"
+  },
+  {
+    "customer_id": "C026",
+    "name": null,
+    "address": null,
+    "email": null,
+    "state": "CA",
+    "operation": "delete",
+    "timestamp": "2025-06-04T12:26:00Z"
+  },
+  {
+    "customer_id": "C027",
+    "name": null,
+    "address": null,
+    "email": null,
+    "state": "CA",
+    "operation": "delete",
+    "timestamp": "2025-06-04T12:27:00Z"
+  },
+  {
+    "customer_id": "C028",
+    "name": null,
+    "address": null,
+    "email": null,
+    "state": "CA",
+    "operation": "delete",
+    "timestamp": "2025-06-04T12:28:00Z"
+  },
+  {
+    "customer_id": "C029",
+    "name": null,
+    "address": null,
+    "email": null,
+    "state": "CA",
+    "operation": "delete",
+    "timestamp": "2025-06-04T12:29:00Z"
+  },
+  {
+    "customer_id": "C030",
+    "name": null,
+    "address": null,
+    "email": null,
+    "state": "CA",
+    "operation": "delete",
+    "timestamp": "2025-06-04T12:30:00Z"
+  }
+]

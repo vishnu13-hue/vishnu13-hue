@@ -1,0 +1,101 @@
+[
+  {
+    "customer_id": "C011",
+    "name": "Customer 1",
+    "address": "1 Main Street, NY",
+    "email": "customer1@example.com",
+    "state": "CA",
+    "operation": "insert",
+    "timestamp": "2025-06-04T10:01:00Z"
+  },
+  {
+    "customer_id": "C012",
+    "name": "Customer 2",
+    "address": "2 Main Street, NY",
+    "email": "customer2@example.com",
+    "state": "NY",
+    "operation": "insert",
+    "timestamp": "2025-06-04T10:02:00Z"
+  },
+  {
+    "customer_id": "C013",
+    "name": "Customer 3",
+    "address": "3 Main Street, NY",
+    "email": "customer3@example.com",
+    "state": "CA",
+    "operation": "insert",
+    "timestamp": "2025-06-04T10:03:00Z"
+  },
+  {
+    "customer_id": "C014",
+    "name": "Customer 4",
+    "address": "4 Main Street, NY",
+    "email": "customer4@example.com",
+    "state": "NY",
+    "operation": "insert",
+    "timestamp": "2025-06-04T10:04:00Z"
+  },
+  {
+    "customer_id": "C015",
+    "name": "Customer 5",
+    "address": "5 Main Street, NY",
+    "email": "customer5@example.com",
+    "state": "CA",
+    "operation": "insert",
+    "timestamp": "2025-06-04T10:05:00Z"
+  },
+  {
+    "customer_id": "C016",
+    "name": "Customer 6",
+    "address": "6 Main Street, NY",
+    "email": "customer6@example.com",
+    "state": "NY",
+    "operation": "insert",
+    "timestamp": "2025-06-04T10:06:00Z"
+  },
+  {
+    "customer_id": "C007",
+    "name": "Customer 7",
+    "address": "7 Main Street, NY",
+    "email": "customer7@example.com",
+    "state": "CA",
+    "operation": "insert",
+    "timestamp": "2025-06-04T10:07:00Z"
+  },
+  {
+    "customer_id": "C007",
+    "name": "Customer 8",
+    "address": "8 Main Street, NY",
+    "email": "customer8@example.com",
+    "state": "NY",
+    "operation": "delete",
+    "timestamp": "2025-06-04T10:08:00Z"
+  },
+  {
+    "customer_id": "C007",
+    "name": "Customer 9",
+    "address": "9 Main Street, NY",
+    "email": "customer9@example.com",
+    "state": "CA",
+    "operation": "delete",
+    "timestamp": "2025-06-04T10:09:00Z"
+  },
+  {
+    "customer_id": "C010",
+    "name": "Customer 10",
+    "address": "10 Main Street, NY",
+    "email": "customer10@example.com",
+    "state": "NY",
+    "operation": "insert",
+    "timestamp": "2025-06-04T10:10:00Z"
+  }
+  {
+    "customer_id": "C011",
+    "name": "Customer 11",
+    "address": "10 Main Street, NY",
+    "email": "customer10@example.com",
+    "state": "NY",
+    "operation": "insert",
+    "timestamp": "2025-06-04T10:10:00Z"
+  }
+]

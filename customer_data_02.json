@@ -1,0 +1,92 @@
+[
+  {
+    "customer_id": "C011",
+    "name": "Customer 11 Updated",
+    "address": "11 Updated Street, TX",
+    "email": "updated11@example.com",
+    "state": "TX",
+    "operation": "insert",
+    "timestamp": "2025-06-04T11:11:00Z"
+  },
+  {
+    "customer_id": "C012",
+    "name": "Customer 12 Updated",
+    "address": "12 Updated Street, TX",
+    "email": "updated12@example.com",
+    "state": "TX",
+    "operation": "update",
+    "timestamp": "2025-06-04T11:12:00Z"
+  },
+  {
+    "customer_id": "C013",
+    "name": "Customer 13 Updated",
+    "address": "13 Updated Street, TX",
+    "email": "updated13@example.com",
+    "state": "TX",
+    "operation": "insert",
+    "timestamp": "2025-06-04T11:13:00Z"
+  },
+  {
+    "customer_id": "C014",
+    "name": "Customer 14 Updated",
+    "address": "14 Updated Street, TX",
+    "email": "updated14@example.com",
+    "state": "TX",
+    "operation": "update",
+    "timestamp": "2025-06-04T11:14:00Z"
+  },
+  {
+    "customer_id": "C015",
+    "name": "Customer 15 Updated",
+    "address": "15 Updated Street, TX",
+    "email": "updated15@example.com",
+    "state": "TX",
+    "operation": "insert",
+    "timestamp": "2025-06-04T11:15:00Z"
+  },
+  {
+    "customer_id": "C016",
+    "name": "Customer 16 Updated",
+    "address": "16 Updated Street, TX",
+    "email": "updated16@example.com",
+    "state": "TX",
+    "operation": "update",
+    "timestamp": "2025-06-04T11:16:00Z"
+  },
+  {
+    "customer_id": "C017",
+    "name": "Customer 17 Updated",
+    "address": "17 Updated Street, TX",
+    "email": "updated17@example.com",
+    "state": "TX",
+    "operation": "insert",
+    "timestamp": "2025-06-04T11:17:00Z"
+  },
+  {
+    "customer_id": "C018",
+    "name": "Customer 18 Updated",
+    "address": "18 Updated Street, TX",
+    "email": "updated18@example.com",
+    "state": "TX",
+    "operation": "update",
+    "timestamp": "2025-06-04T11:18:00Z"
+  },
+  {
+    "customer_id": "C019",
+    "name": "Customer 19 Updated",
+    "address": "19 Updated Street, TX",
+    "email": "updated19@example.com",
+    "state": "TX",
+    "operation": "insert",
+    "timestamp": "2025-06-04T11:19:00Z"
+  },
+  {
+    "customer_id": "C020",
+    "name": "Customer 20 Updated",
+    "address": "20 Updated Street, TX",
+    "email": "updated20@example.com",
+    "state": "TX",
+    "operation": "update",
+    "timestamp": "2025-06-04T11:20:00Z"
+  }
+]
