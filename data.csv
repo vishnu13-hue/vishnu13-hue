@@ -1,5 +1,4 @@
 TransactionID,StoreID,ProductID,Quantity,TotalAmount,SaleDate,LastUpdated,ProductID (1),ProductName,Category,Brand,UnitPrice
-TransactionID,StoreID,ProductID,Quantity,TotalAmount,SaleDate,LastUpdated,ProductID (1),ProductName,Category,Brand,UnitPrice
 TXN1001,102,2003,2,706.14,2025-07-24,2025-07-24 15:10:00,2003,Product_2003,Electronics,BrandB,353.07
 TXN1002,103,2005,3,970.47,2025-07-25,2025-07-25 15:15:00,2005,Product_2005,Grocery,BrandA,323.49
 TXN1003,103,2005,5,881.30,2025-07-26,2025-07-26 15:20:00,2005,Product_2005,Clothing,BrandA,176.26
@@ -9,6 +8,7 @@ TXN1006,104,2003,5,1060.60,2025-07-26,2025-07-26 15:35:00,2003,Product_2003,Clot
 TXN1007,101,2001,3,973.83,2025-07-24,2025-07-24 15:40:00,2001,Product_2001,Clothing,BrandA,324.61
 TXN1008,101,2005,4,1677.48,2025-07-25,2025-07-25 15:45:00,2005,Product_2005,Grocery,BrandA,419.37
 TXN1009,103,2002,2,977.30,2025-07-26,2025-07-26 15:50:00,2002,Product_2002,Electronics,BrandB,488.65
+
 
 
 
